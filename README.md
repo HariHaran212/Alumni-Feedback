@@ -1,3 +1,3 @@
 Live Hosting:
-Index Page: http://hariharan.infy.uk/
-Admin PAge: http://hariharan.infy.uk/AdminPage.php
+Index Page: http://alumni-feedback.42web.io/
+Admin PAge: http://alumni-feedback.42web.io/AdminPage.php
